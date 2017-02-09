@@ -1,0 +1,14 @@
+
+-------------------------------------------------------------------
+Git commands - for working with github
+----------------------------------------------------------
+
+go get the repository on the system
+git clone https://github.com/charychallala/Chary.git
+then you can try adding some files
+//for all files
+> git add .
+//git commit -m "some message"
+
+>git push origin master
+//will prompt for user name and password
